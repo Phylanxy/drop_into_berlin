@@ -9,8 +9,11 @@ Optional: The user describes a place in a text and our recommender extracts the 
 
 ## Type of project
 - Web scraping (Google API, Selenium)
-- Feature extraction with NLP 
-- Machine learning (clustering)
+- Feature extraction with NLP (GPT-3, RoBERTa)
+- Machine learning (KNN, decision trees)
+
+## Tools used
+- 
 
 ## Dataset
 - Source: Scraped via Google Maps API and Tripadvisor API
@@ -55,4 +58,4 @@ Optional: The user describes a place in a text and our recommender extracts the 
 - Thursday: buffer
 - Friday: Final pitch
 
-## 
+
