@@ -12,9 +12,6 @@ Optional: The user describes a place in a text and our recommender extracts the 
 - Feature extraction with NLP (GPT-3, RoBERTa)
 - Machine learning (KNN, decision trees)
 
-## Tools used
-- 
-
 ## Dataset
 - Source: Scraped via Google Maps API and Tripadvisor API
 - Shape: tbd (ca. 11k x 40 columns)
