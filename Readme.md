@@ -43,5 +43,16 @@ Optional: The user describes a place in a text and our recommender extracts the 
     - Place that shows highest match with inserted data
 
 ## Project plan
+- Wednesday: Scraping the dataset, stacking the data, cleaning the data
+- Thursday: Build feature extractor with ChatGPT/BERT
+- Friday: Implement clustering algorithm, build user experience/front end
+=> End of Week milestone: MVP: Restaurant recommender
+- Monday: Enhance recommender by enhancing
+    - Restaurants data quality
+    - By further categories (bars, cafe, museums, monuments, clubs)
+- Tuesday: Begin dashboards and power point presentation
+- Wednesday: buffer
+- Thursday: buffer
+- Friday: Final pitch
 
 ## 
