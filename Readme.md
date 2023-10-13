@@ -36,6 +36,11 @@ Optional: The user describes a place in a text and our recommender extracts the 
 1-4. Once ready with restaurant category, enhancing our recommender system with bars, clubs, monuments etc.
 
 ## User experience
+UX files including user research, wireframing, logo design, high fidelety prototype are available on Figma
+
+https://www.figma.com/file/IVBX8yWlBTr5jAuJU99CRT/Wireframe?type=design&node-id=514%3A18561&mode=design&t=I2hC74Mid6fuKipu-1
+
+### User flows
 1. User inserts
     - Place (restaurant, bar, club, museum, etc.) he/she finds interesting
     - Short textual description of the place
